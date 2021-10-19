@@ -1,5 +1,3 @@
-
-
 package com.datas.spring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;

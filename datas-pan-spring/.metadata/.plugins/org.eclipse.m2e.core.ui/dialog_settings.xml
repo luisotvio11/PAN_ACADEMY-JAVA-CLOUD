@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/luis/PAN_ACADEMY-JAVA-CLOUD/datas-pan-spring"/>
 			<item value="/home/luis/Downloads/aula5-app-spring-datas"/>
 		</list>
 		<list key="projectNameTemplate">

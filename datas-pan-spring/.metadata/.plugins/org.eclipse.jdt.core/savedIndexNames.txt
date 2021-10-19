@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/luis/PAN_ACADEMY-JAVA-CLOUD/datas-pan-spring/.metadata/.plugins/org.eclipse.jdt.core
