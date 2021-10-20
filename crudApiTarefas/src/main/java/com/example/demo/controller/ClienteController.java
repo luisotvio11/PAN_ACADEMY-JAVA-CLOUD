@@ -35,19 +35,13 @@ public class ClienteController {
 	}
 
 
-	@GetMapping("/listar/pessoas-fisicas/{tipo}")
-	public ResponseEntity<List<ClienteModel>> filtroId2(@PathVariable Integer tipo){
-		return ResponseEntity.ok(clienteRepository.procuraTipoPessoas(tipo)); 
-			
-	}
-	
-	
-
-	@GetMapping("/listar/pessoas-juriDica/{tipo}")
+	@GetMapping("/listar/pessoa/{tipo}")
 	public ResponseEntity<List<ClienteModel>> filtroId(@PathVariable Integer tipo){
 		return ResponseEntity.ok(clienteRepository.procuraTipoPessoas(tipo)); 
 			
 	}
+	
+
 
 	
 	}
