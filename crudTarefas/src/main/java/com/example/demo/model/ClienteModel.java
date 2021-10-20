@@ -46,11 +46,11 @@ public class ClienteModel {
 
 
 
-	public Long getId() {
+	public Long getid() {
 		return id;
 	}
 
-	public void setId(Long id) {
+	public void setid(Long id) {
 		this.id = id;
 	}
 
