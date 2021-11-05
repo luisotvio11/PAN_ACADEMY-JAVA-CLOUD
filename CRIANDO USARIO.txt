@@ -1,8 +1,0 @@
-CRIANDO BANCO DE DADOS
-RDS
-CRIAR BANCO DE DADOS
-
-
-Gerenciar usuario IAM
-
-
